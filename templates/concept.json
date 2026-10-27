@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-28",
+  "mode": "새로 만들기",
+  "type": "브랜드",
+  "siteStatus": "아직 없음",
+  "siteUrl": "",
+  "industry": "생활용품 · 식품",
+  "goal": "",
+  "regulated": false,
+
+  "name": "온새 펫베이커리",
+  "nameEn": "ONSAE",
+  "nameDisplay": "온새 펫베이커리 (ONSAE)",
+
+  "oneLine": "알레르기 있는 강아지를 위해, 원재료 5가지 이하로 만드는 망원동 강아지 수제 간식 공방",
+  "who": "알레르기 있는 강아지 보호자",
+  "what": "강아지 수제 간식",
+  "how": "원재료 5가지 이하 · 재료표 전부 공개",
+  "keyword": "강아지 수제 간식",
+  "scope": "지역",
+  "area": "망원동",
+  "action": "구매 · 예약",
+
+  "title": "알레르기 강아지를 위한 수제 간식 공방 | 온새 펫베이커리",
+  "description": "알레르기 있는 강아지를 위해 원재료 5가지 이하로 만드는 망원동 수제 간식 공방이에요. 모든 제품의 재료표를 공개해요.",
+  "introShort": "원재료 5가지 이하, 재료표를 다 공개하는 망원동 강아지 수제 간식 공방",
+  "introLong": "온새 펫베이커리(ONSAE)는 망원동에서 2년째 강아지 수제 간식을 만들어요. …",
+
+  "aiBefore": [],
+  "_aiBefore_example": [{ "engine": "ChatGPT", "question": "(이름)는 뭐 하는 곳이야?", "answer": "사용자가 붙여 넣은 답 그대로", "verdict": "모름 | 헷갈림 | 엉뚱함 | 일부만 | 맞음", "date": "2026-10-28" }],
+  "sameName": "있어요 | 잘 모르겠어요 | 없어요",
+
+  "before": null,
+  "_before_example": { "oneLine": "지금 문구", "title": "지금 사이트 제목", "description": "지금 설명 (없으면 빈 칸)", "hero": "첫 화면 큰 문장", "readFrom": "사이트에서 읽음 | 붙여 넣음" },
+  "diagnosis": [],
+  "_diagnosis_example": [{ "item": "누구에게", "state": "빠짐", "note": "" }],
+
+  "measure": [
+    { "q": "망원동 강아지 수제 간식 공방 추천", "layer": 3 },
+    { "q": "강아지가 닭 알레르기가 있는데, 재료 적은 수제 간식 파는 곳 있어?", "layer": 2 },
+    { "q": "원재료표를 전부 공개하는 강아지 간식 공방 있어?", "layer": 1 }
+  ],
+  "coreQuestions": [{ "q": "닭 알레르기 강아지 간식은 무엇으로 고르나요?", "layer": 2 }],
+
+  "evidence": [
+    { "item": "2년 운영", "status": "쓸 수 있음", "note": "" },
+    { "item": "후기 약 100개", "status": "확인 필요", "note": "정확한 수를 세면 쓸 수 있어요" }
+  ],
+
+  "channels": [
+    { "name": "인스타그램", "core": true, "url": "", "displayName": "온새 펫베이커리 (ONSAE)", "intro": "short", "todo": "이름에 영문 추가 · 소개 교체", "signup": false }
+  ],
+  "linkPlan": ["인스타그램 → 프로필 링크를 사이트로 · 게시물 끝에 「재료표는 사이트에」"],
+
+  "locales": {},
+  "_locales_example": { "en": { "lang": "영어", "keyword": "…", "oneLine": "…", "title": "…", "description": "…", "introShort": "…" } },
+
+  "answers": [{ "step": "1", "q": "누구를 알리고 싶어요?", "a": "브랜드 · 가게 · 회사" }],
+  "notes": []
+}
